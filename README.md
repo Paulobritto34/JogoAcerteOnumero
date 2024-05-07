@@ -13,7 +13,7 @@ Esse projeto é um pequeno jogo para acertar um número secreto gerado aleatoria
 
 <h2 align="center"> Versão Web  </h2>
 
-![image](https://github.com/Paulobritto34/Desafio_Frontend_Mentor_Social_links_profile_main/assets/98286250/e70ed253-5aac-44eb-b566-71dac7995578)
+![image](![image](https://github.com/Paulobritto34/JogoAcerteOnumero/assets/98286250/c094c39e-cfad-431b-bbf4-78513c1668b1))
 
 <br>
 
