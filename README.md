@@ -19,7 +19,7 @@ Esse projeto é um pequeno jogo para acertar um número secreto gerado aleatoria
 
 <br>
 
-Acesse o projeto: <a href="https://paulobritto34.github.io/Desafio_Frontend_Mentor_Social_links_profile_main/" target="_blank">Clique aqui</a>
+Acesse o projeto: <a href="https://paulobritto34.github.io/JogoAcerteOnumero/" target="_blank">Clique aqui</a>
 
 <br>
 
