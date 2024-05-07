@@ -1,6 +1,6 @@
-<h1 align="center"> Desafio Frontend Mentor | Social links profile main </h1>
+<h1 align="center"> Projeto Alura | Acerte o número </h1>
 <p align="center">
-Esse projeto é uma página de links de direcionamento para Redes sociais.
+Esse projeto é um pequeno jogo para acertar um número secreto gerado aleatoriamente.
 </p>
 
 <p align="center">
